@@ -41,7 +41,7 @@
 | ------------------------------------------- | ------------------------------------- | -------------------------------------------- |
 | [夸克网盘](https://pan.quark.cn/)           | [workflowy](https://workflowy.com/)   | [石墨文档](https://shimo.im/)                |
 
-##### 1.1.4.1 云盘搜索
+##### 1.1.3.1 云盘搜索
 
 | 百度云盘                          |                                            |                                             |
 | --------------------------------- | ------------------------------------------ | ------------------------------------------- |
@@ -52,9 +52,15 @@
 | [阿里云盘](http://alipan.vip/)`★` | [UP搜](https://www.upyunso.com)            | [奈斯搜](https://www.niceso.fun)            |
 | [鸡盒盘](https://jihepan.com/)    | [阿里盘搜](https://www.alipansou.com)      | [小猪快盘](https://www.xiaozhukuaipan.com/) |
 
-##### 1.1.4.2 精品网站
+##### 1.1.3.2 精品网站
 
 - [漢典 (zdic.net)](https://www.zdic.net/)
+
+#### 1.1.4 `自媒体`
+
+| [微信公众平台](https://mp.weixin.qq.com/)                    | [头条号 158](https://mp.toutiao.com/profile_v4/index) |      |
+| ------------------------------------------------------------ | ----------------------------------------------------- | ---- |
+| [小红书创作服务平台](https://creator.xiaohongshu.com/publish/imgNote) |                                                       |      |
 
 ### 1.2 墙外
 
@@ -503,13 +509,15 @@
   - [helloGitHub网址](https://hellogithub.com/)
 - [网站源代码下载](https://sc.chinaz.com/tag_jiaoben/zuocedaohang.html)
 
-#### 6.3 解析
+#### 6.3 解析/格式化
 
 | json                                                         |                                                   |      |
 | ------------------------------------------------------------ | ------------------------------------------------- | ---- |
 | [JSON在线视图查看器](https://www.bejson.com/jsonviewernew/) `★` | [在线JSON校验格式化工具](https://www.bejson.com/) |      |
 | **OCR**                                                      |                                                   |      |
 | [Free OCR API](https://ocr.space/OCRAPI)                     |                                                   |      |
+| **html**                                                     |                                                   |      |
+| [HTML格式化/压缩](https://www.sojson.com/jshtml.html)        |                                                   |      |
 
 #### 6.4 正则表达式
 
@@ -571,15 +579,9 @@
 
 - [Microsoft todo](https://to-do.live.com/tasks/)
 
-## 10 自媒体
-
-- [头条号](https://mp.toutiao.com/profile_v4/index)
-
-  > 158****2823
-
 ---
 
-## 11 其他
+## 12 其他
 
 1. [搜索展会安排的网站](http://showsfinder.com/)
 2. [网穿云内网穿透](https://i.xiaomy.net/#/tunnel)
