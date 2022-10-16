@@ -14,7 +14,7 @@
 |                                                              |                                                              |                                                              |
 | **程序软件**                                                 |                                                              |                                                              |
 | [查各种VB.NET语法](https://www.dotnetperls.com/s)  `❤`       | [吾爱破解搜索](http://zhannei.baidu.com/cse/site?q=&cc=52pojie.cn&ie=gbk) | [在线微信步数修改器u.com) ](https://www.17bushu.com/) `❤`    |
-| [常用的Markdown网站](http://md.aclickall.com/)               | [MDnice](https://editor.mdnice.com/)                         |                                                              |
+| [常用的Markdown网站](http://md.aclickall.com/)               | [MDnice](https://editor.mdnice.com/)                         | [Github上传](https://github.com/disheng2018/web/upload/main) `❤` |
 |                                                              |                                                              |                                                              |
 | **翻译网站**                                                 |                                                              |                                                              |
 | [搜狗翻译](https://fanyi.sogou.com/text?keyword=&transfrom=auto&transto=en&model=general&fr=websearch_submit) | [Deepl翻译](https://www.deepl.com/translator)                |                                                              |
@@ -61,6 +61,8 @@
 | [微信公众平台](https://mp.weixin.qq.com/)                    | [头条号 158](https://mp.toutiao.com/profile_v4/index) |      |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ---- |
 | [小红书创作服务平台](https://creator.xiaohongshu.com/publish/imgNote) |                                                       |      |
+| **工具**                                                     |                                                       |      |
+| [96微信Emoji大全](https://bj.96weixin.com/emoji/)            | [96微信编辑器](https://bj.96weixin.com/)              |      |
 
 ### 1.2 墙外
 
